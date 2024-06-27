@@ -6,6 +6,8 @@
 
 This repository contains the development and ongoing updates of a custom GPT model specifically designed for assisting with CUDA functions and tasks. The model provides detailed instructions, code snippets, troubleshooting tips, and performance optimization guidance for working with CUDA and related libraries like cuDNN.
 
+Link to GPT still in early refinement: [HERE](https://chatgpt.com/g/g-ZCsLPtxm0-cuda-helper)
+
 ## Features
 
 1. **Installation and Setup**
