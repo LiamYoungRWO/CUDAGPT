@@ -14,7 +14,7 @@ This repository contains the development and ongoing updates of a custom GPT mod
    - Troubleshooting advice for common installation issues.
 
 2. **Development Environment Setup**
-   - Sample configurations (`tasks.json`, `launch.json`) for setting up CUDA projects in Visual Studio Code and other IDEs.
+   - Sample configurations (`tasks.json`, `launch.json`) for setting up CUDA projects in prefferred IDE.
    - Instructions for setting up environment variables and paths.
 
 3. **Code Snippets and Examples**
